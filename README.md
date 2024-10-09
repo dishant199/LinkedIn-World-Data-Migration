@@ -1,4 +1,4 @@
-# People Migration Predictor using LinkedIn Data
+# People Migration Predictor using LinkedIn Data Using R
 
 https://dhvl15.shinyapps.io/project1/
 
